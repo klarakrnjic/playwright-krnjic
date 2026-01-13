@@ -67,5 +67,5 @@ Test adding multiple products to the shopping cart and verify that item quantiti
 4. Remove from Cart Test
 Confirm that removing an item from the cart updates the cart count and total accordingly.
 
-5. Checkout Process Test
-Simulate completing a purchase, validating that the checkout form, payment information, and order confirmation are functioning properly.
+5. User Logout Test
+Verify that a loged in user can successfully log out.
